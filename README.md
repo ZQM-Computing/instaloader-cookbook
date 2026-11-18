@@ -35,6 +35,8 @@ Researchers who collect public Instagram posts and profiles for analysis.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-download` | A first profile or hashtag download |
